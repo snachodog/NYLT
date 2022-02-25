@@ -1,12 +1,12 @@
 # 2021 NYLT Menu
 
-All meals will have appropriate beverages:
-* Breakfast - OJ, Apple Juice, Coffee, Hot Cocoa, Milk
-* Lunch/Dinner - Coffee, Lo Cal Lemonade, Lo Cal Fruit Punch
-
-Fresh Fruit - Apples and Oranges available at all meals
-
-Desserts will be scheduled for dinner meals
+* All meals will have appropriate beverages:
+  * Breakfast - OJ, Apple Juice, Coffee, Hot Cocoa, Milk
+  * Lunch/Dinner - Coffee, Lo Cal Lemonade, Lo Cal Fruit Punch
+* Fresh Fruit available at all meals
+  * Apples
+  * Oranges
+* Desserts will be scheduled for dinner meals
 
 ## Thursday
 ### Thursday Dinner - Staff (15)
