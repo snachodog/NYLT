@@ -27,6 +27,7 @@ I look forward to meeting you in person on the 20th!
 Yours in Good Scouting,
 
 Steve Dogiakos
+
 Scoutmaster, NYLT Troop 2021
 
 ---
@@ -34,9 +35,10 @@ Scoutmaster, NYLT Troop 2021
 
 Dear future leaders,
 
-Hello! My name is TJ Higuera. I am an Eagle Scout from troop 1911 and I will be your SPL for the NYLT week! We have a lot planned for you and a very very busy week so rest up now! This course will help you become a successful leader in the future and teach you skills that you can bring back to your troop. My staff has been preparing since December to bring you the best course possible. I am very excited! I believe that this course will be the best course ever. The training and activities that will be presented to you are unparalleled by any course. I will see all of you in five weeks!
+Hello! My name is `Johnny Eagle Scout`. I am an Eagle Scout from troop 1911 and I will be your SPL for the NYLT week! We have a lot planned for you and a very very busy week so rest up now! This course will help you become a successful leader in the future and teach you skills that you can bring back to your troop. My staff has been preparing since December to bring you the best course possible. I am very excited! I believe that this course will be the best course ever. The training and activities that will be presented to you are unparalleled by any course. I will see all of you in five weeks!
 
 Yours in Scouting,
 
 `Johnny Eagle Scout`
+
 Senior Patrol Leader, NYLT 2021
