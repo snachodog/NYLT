@@ -4,7 +4,7 @@ These are the letters my SPL and I sent to course participants and their parents
 ---
 ## Parent Letter
 
-Dear [Scout First Name] ,
+Dear `Parent Name`,
 
 We are less than a couple weeks away from NYLT! Some of you have received information already, but if you were on the waitlist, I apologize that this may be our first interaction.
 
@@ -38,5 +38,5 @@ Hello! My name is TJ Higuera. I am an Eagle Scout from troop 1911 and I will be 
 
 Yours in Scouting,
 
-Johnny Eagle Scout]
+`Johnny Eagle Scout`
 Senior Patrol Leader, NYLT 2021
