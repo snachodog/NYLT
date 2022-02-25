@@ -1,50 +1,55 @@
+# 2021 NYLT Menu
 
-All meals will have appropriate beverages
-     Breakfast - OJ, Apple Juice, Coffee, Hot Cocoa, Milk
-     Lunch/Dinner - Coffee, Lo Cal Lemonade, Lo Cal Fruit Punch
+All meals will have appropriate beverages:
+     * Breakfast - OJ, Apple Juice, Coffee, Hot Cocoa, Milk
+     * Lunch/Dinner - Coffee, Lo Cal Lemonade, Lo Cal Fruit Punch
+
 Fresh Fruit - Apples and Oranges available at all meals
+
 Desserts will be scheduled for dinner meals
-Thursday
-Thursday Dinner - Staff (15)
-       Lasagne (Frozen)
-          Breadsticks
-          Salad w/dressing
-          Canned Fruit
 
-Friday
-Friday Breakfast - Staff (15)
-       Egg/Sausage/Cheese Muffin (Frozen)
-           Canned Fruit
-           Toast
-           Cereal
+## Thursday
+### Thursday Dinner - Staff (15)
 
-Friday Lunch - Staff (15)
-       Grilled Cheese Sandwiches (frozen)
-           Tomato soup
-           Salad
-           Canned Fruit
+* Lasagne (Frozen)
+     * Breadsticks
+     * Salad w/dressing
+     * Canned Fruit
 
-Friday Dinner -Staff (15)
+## Friday
+### Friday Breakfast - Staff (15)
+* Egg/Sausage/Cheese Muffin (Frozen)
+* Canned Fruit
+* Toast
+* Cereal
+
+### Friday Lunch - Staff (15)
+* Grilled Cheese Sandwiches (frozen)
+* Tomato soup
+* Salad
+* Canned Fruit
+
+### Friday Dinner -Staff (15)
         Baked Ham
             Scalloped potatoes
             Canned Green Beans
             Salad
             Canned Fruit
 
-Saturday
-Saturday Breakfast - Staff (15)
+## Saturday
+### Saturday Breakfast - Staff (15)
         Cheddar cheese Omelet (pre cooked)
             Canned Fruit
             Toast
             Cereal
 
-Saturday Lunch - Staff (15)
+### Saturday Lunch - Staff (15)
          Chili
             Breadsticks
             Salad
             Canned Fruit
 
-Saturday Dinner
+### Saturday Dinner
          Prime Rib Dinner
             Mashed Potatoes
             Canned Corn
@@ -55,20 +60,20 @@ Saturday Dinner
             Whipped Topping
 
 
-Sunday
-Sunday Breakfast - Staff (15)
+## Sunday
+### Sunday Breakfast - Staff (15)
          Sausage and Vegetable Skillet (Frozen)
              Toast
              Cereal 
 
-Sunday Lunch - Staff (15)
+### Sunday Lunch - Staff (15)
           Sandwich Bar
              Ham, Turkey, Roast Beef
              Sliced Onions, Tomatoes, Pickles
              American Cheese
              Assorted Chips
 
-Sunday Dinner - Staff (16) Wayne arrives 
+### Sunday Dinner - Staff (16) Wayne arrives 
           Burger 'Cookout'
                  Sliced Onion, Tomato, Pickles, Cheese Slices
                  Canned Baked Beans
@@ -83,14 +88,14 @@ Sunday Dinner - Staff (16) Wayne arrives
                  Pre Baked Cookies
 
 
-Monday
-Monday Breakfast - All (65)
+## Monday
+### Monday Breakfast - All (65)
            Egg Bake with Sausage, Hash Browns & Cheese
                  Toast
                  Cereal
                  Canned Fruit
 
-Monday Lunch - Staff (16)
+### Monday Lunch - Staff (16)
             Soup and Grilled Cheese Sandwiches 
                  Pickles
                  Salad
@@ -102,7 +107,7 @@ Monday Lunch - Staff (16)
                  Salad
                  Canned Fruit
 
-Monday Dinner - Staff (16)
+### Monday Dinner - Staff (16)
              'Smokin Rice Bowls'
                  Smoked Pork, Chicken, Beef
                  Sliced, Grilled Red Peppers, Green Peppers, Onions
@@ -121,13 +126,13 @@ Monday Dinner - Staff (16)
              Canned Fruit
 —-
 
-Tuesday
-Tuesday Breakfast - All Participants (65)
+## Tuesday
+### Tuesday Breakfast - All Participants (65)
              Biscuits and gravy
                   Scrambled Eggs
                   Toast, Cereal, Canned Fruit
 
-Tuesday Lunch - Staff (16)
+### Tuesday Lunch - Staff (16)
              Chicken Strips w/Honey Mustard or BBQ Sauce
                    Salad
                    Canned Fruit
@@ -137,7 +142,7 @@ Tuesday Lunch - Staff (16)
                    Salad
                    Canned Fruit
 
-Tuesday Dinner - Staff (15)
+### Tuesday Dinner - Staff (15)
              Baked Pork Tenderloin Steaks
                     Mashed Potatoes w/ Sauerkraut
                     Green Peas
@@ -156,15 +161,15 @@ Tuesday Dinner - Staff (15)
                     Cookies
 —-
 
-Wednesday
-Wednesday Breakfast - All Participants (65)
+## Wednesday
+### Wednesday Breakfast - All Participants (65)
               Breakfast Burritos
                     Egg, Cheddar Cheese, sausage crumbles
                     Salsa
               Toast
               Cereal
 
-Wednesday Lunch - Staff (15)
+### Wednesday Lunch - Staff (15)
                Pepperoni Pizza
                     Canned Corn
                     Salad
@@ -175,7 +180,7 @@ Wednesday Lunch - Staff (15)
                      Canned Corn
                      Canned Fruit
 
-Wednesday Dinner - Staff (16)
+### Wednesday Dinner - Staff (16)
                 Chicken Broccoli Fettuccine in Alfredo Sauce
                       Green Beans
                       Breadsticks
@@ -190,8 +195,8 @@ Wednesday Dinner - Staff (16)
                       Canned Fruit
 —-
 
-Thursday
-Thursday Breakfast - All Participants (65)
+## Thursday
+### Thursday Breakfast - All Participants (65)
                 Pancakes w/ Maple Syrup
                       Scrambled Eggs
                       Pork Sausage Patties
@@ -199,7 +204,7 @@ Thursday Breakfast - All Participants (65)
                  Cereal
                  Canned Fruit 
 
-Thursday Lunch - Staff (16)
+### Thursday Lunch - Staff (16)
                Taco Bar
                       Seasoned Beef
                       Diced Onions, Diced Tomatoes
@@ -219,7 +224,7 @@ Thursday Lunch - Staff (16)
                 Salad
                 Canned Fruit 
 
-Thursday Dinner - Staff (15)
+### Thursday Dinner - Staff (15)
                 Hand Cut Ribeye Steaks
                         Steak Fries
                         Garlic Bread
@@ -236,15 +241,15 @@ Thursday Dinner - Staff (15)
                 Green Beans
                 Apple Dump Cake w/ Whipped Cream (Dutch Oven)
 —-
-Friday
-Friday Breakfast -All Participants (65)
+## Friday
+### Friday Breakfast -All Participants (65)
                 Cheese Omelets
                 Biscuits and Gravy
                 Toast
                 Cereal
                 Canned Fruit
 
-Friday Lunch - Staff (15)
+### Friday Lunch - Staff (15)
                 Sandwich Bar
                       Ham, Turkey, Roast Beef
                       Sliced Onions, Tomatoes, Pickles
@@ -260,8 +265,7 @@ Friday Lunch - Staff (15)
                      Assorted Chips
                      Fresh Fruit
 
-Friday Dinner - All participants (65)
-            GRADUATION FEAST
+### Friday Dinner - All participants (65) GRADUATION FEAST
                 Roast Chicken Dinner
                       Mashed Potatoes and Gravy
                       Dinner Rolls
@@ -269,22 +273,6 @@ Friday Dinner - All participants (65)
                       Salad
                       Canned Fruit
 —-
-Saturday
-Saturday Breakfast - All Participants (65)
-
-                  LEFT OVERS!!!!!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sent from my iPad
+## Saturday
+### Saturday Breakfast - All Participants (65)
+* **LEFT OVERS!**
