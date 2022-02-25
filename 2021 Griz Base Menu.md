@@ -9,7 +9,8 @@
 * Desserts will be scheduled for dinner meals
 
 ## Thursday
-### Thursday Dinner - Staff (15)
+### Thursday Dinner
+#### Staff (15)
 
 * Lasagna (Frozen)
 * Breadsticks
@@ -17,19 +18,22 @@
 * Canned Fruit
 
 ## Friday
-### Friday Breakfast - Staff (15)
+### Friday Breakfast
+#### Staff (15)
 * Egg/Sausage/Cheese Muffin (Frozen)
 * Canned Fruit
 * Toast
 * Cereal
 
-### Friday Lunch - Staff (15)
+### Friday Lunch
+#### Staff (15)
 * Grilled Cheese Sandwiches (frozen)
 * Tomato soup
 * Salad
 * Canned Fruit
 
-### Friday Dinner -Staff (15)
+### Friday Dinner
+#### Staff (15)
 Baked Ham
 * Scalloped potatoes
 * Canned Green Beans
@@ -37,19 +41,22 @@ Baked Ham
 * Canned Fruit
 
 ## Saturday
-### Saturday Breakfast - Staff (15)
+### Saturday Breakfast
+#### Staff (15)
 * Cheddar cheese Omelet (pre cooked)
 Canned Fruit
 * Toast
 * Cereal
 
-### Saturday Lunch - Staff (15)
+### Saturday Lunch
+#### Staff (15)
 * Chili
 * Breadsticks
 * Salad
 * Canned Fruit
 
 ### Saturday Dinner
+#### Staff (15)
 * Prime Rib Dinner
 * Mashed Potatoes
 * Canned Corn
@@ -61,19 +68,22 @@ Canned Fruit
 
 
 ## Sunday
-### Sunday Breakfast - Staff (15)
+### Sunday Breakfast
+#### Staff (15)
 * Sausage and Vegetable Skillet (Frozen)
 * Toast
 * Cereal
 
-### Sunday Lunch - Staff (15)
+### Sunday Lunch
+#### Staff (15)
 * Sandwich Bar
 * Ham, Turkey, Roast Beef
 * Sliced Onions, Tomatoes, Pickles
 * American Cheese
 * Assorted Chips
 
-### Sunday Dinner - Staff (16) Wayne arrives
+### Sunday Dinner
+#### Staff (16) Wayne arrives
 * Burger 'Cookout'
 * Sliced Onion, Tomato, Pickles, Cheese Slices
 * Canned Baked Beans
@@ -89,13 +99,15 @@ Canned Fruit
 
 
 ## Monday
-### Monday Breakfast - All (65)
+### Monday Breakfast
+#### All (65)
 * Egg Bake with Sausage, Hash Browns & Cheese
 * Toast
 * Cereal
 * Canned Fruit
 
-### Monday Lunch - Staff (16)
+### Monday Lunch
+#### Staff (16)
 * Soup and Grilled Cheese Sandwiches
 * Pickles
 * Salad
